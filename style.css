@@ -56,6 +56,12 @@ h1:hover {
     height: auto;
     z-index: 10;
     border-radius: 5px;
+    box-shadow: 0 5px 15px rgba(255, 2, 102);
+    transition: .3s ease;
+}
+
+.desktop_logo:hover {
+    box-shadow: 0px 0px 10px 10px rgba(255, 2, 102);
 }
 
 .slider h2 {
