@@ -173,7 +173,7 @@ a {
     }
 }
 
-@media screen only (min-width: 360px) {
+@media (min-width: 360px) {
 
     .nav h1,
     .slider h1 {
