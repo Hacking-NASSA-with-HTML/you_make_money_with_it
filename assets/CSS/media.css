@@ -1,10 +1,5 @@
 @media (max-width: 767px) {
 
-    .code {
-        margin: 0 0 0 -8vw;
-        /* font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300))); */
-    }
-
     .desktop_image_container {
         width: 90vw;
     }
