@@ -1,1 +1,1 @@
-# you_make_money_with_it
+# Resume page for my friend
